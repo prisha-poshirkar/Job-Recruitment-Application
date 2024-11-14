@@ -1,0 +1,1 @@
+This repository consists of UI designs for a job recruitment application which delivers a seamless AI-based recruitment strategy with a focus on robust candidate screening and scheduling interview process.
